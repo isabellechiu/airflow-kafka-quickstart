@@ -13,8 +13,8 @@ import json
 import random
 
 # Change these variables
-YOUR_NAME = "Jani"
-YOUR_PET_NAME = "Nevermore"
+YOUR_NAME = "Isabelle"
+YOUR_PET_NAME = "HappyDog"
 NUMBER_OF_TREATS = 5
 # if your pet is very hungry, consider also changing `max_messages`
 # in the `consume_treats` task

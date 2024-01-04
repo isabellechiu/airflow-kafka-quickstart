@@ -1,0 +1,111 @@
+User confirmation needed
+
+   (BUTTON) Cancel OK
+
+   (BUTTON) OK
+
+   (BUTTON)
+     * DAGs
+     * Datasets
+     * Security
+          + List Users
+          + List Roles
+          + User's Statistics
+          +
+          + Actions
+          + Resources
+          + Permissions
+     * Browse
+          + DAG Runs
+          + Jobs
+          + Audit Logs
+          + Task Instances
+          + Task Reschedules
+          + Triggers
+          + SLA Misses
+          + DAG Dependencies
+     * Admin
+          + Variables
+          + Configurations
+          + Connections
+          + Plugins
+          + Pools
+          + XComs
+     * Docs
+          + Documentation
+          + Airflow Website
+          + GitHub Repo
+          + REST API Reference (Swagger UI)
+          + REST API Reference (Redoc)
+     * Astronomer
+          + Astronomer Docs
+          + Astronomer Registry
+          + Airflow Guides
+
+     *
+          + UTC
+          + UTC
+          + Local
+          +
+          +
+          + Other ____________________
+     * AU
+          + account_circleYour Profile
+          +
+          + exit_to_appLog Out
+
+   A new version of Astronomer Runtime is available.
+
+   Version 8.10.0 was released on 2023-10-16.
+
+DAGs
+
+   All 3 Active 0 Paused 3
+   Search DAGs ____________________
+   [ ] Auto-refresh (BUTTON) refresh
+   info DAG unfold_more Owner unfold_more Runs info Schedule Last Run info Next Run unfold_more info Recent Tasks info Actions Links
+   [ ] listen_to_the_stream
+   airflow @continuous info info 2023-04-01 00:00:00+00:00 info
+   play_arrow
+     * (BUTTON) Trigger DAG
+     * Trigger DAG w/ config
+
+   delete_outline
+   code Code details Details vertical_distribute Gantt flight_land Landing repeat Tries hourglass_bottom Duration event Calendar account_tree Graph grid_on Grid
+   more_horiz
+   [ ] produce_consume_treats
+   airflow None info info
+   play_arrow
+     * (BUTTON) Trigger DAG
+     * Trigger DAG w/ config
+
+   delete_outline
+   code Code details Details vertical_distribute Gantt flight_land Landing repeat Tries hourglass_bottom Duration event Calendar account_tree Graph grid_on Grid
+   more_horiz
+   [ ] walking_my_pet
+   airflow None info info
+   play_arrow
+     * (BUTTON) Trigger DAG
+     * Trigger DAG w/ config
+
+   delete_outline
+   code Code details Details vertical_distribute Gantt flight_land Landing repeat Tries hourglass_bottom Duration event Calendar account_tree Graph grid_on Grid
+   more_horiz
+     * «
+     * ‹
+     * 1
+     * ›
+     * »
+
+   Showing 1-3 of 3 DAGs
+
+   (BUTTON) ×
+
+Datasets needed to trigger the next run for
+
+   error Oops.
+   Dataset URI Latest Update
+   (BUTTON) Close
+
+   Astronomer Runtime 8.1.0 based on Airflow 2.6.0+astro.2
+   Git Version: .release:41200407a36136132fb8914a50f74164f2503946
